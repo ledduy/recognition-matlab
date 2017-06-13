@@ -1,6 +1,6 @@
-title                : recognition matlab
-description          : This is an automatically generated demo course which will help you on your way to create an awesome DataCamp course.
-university           : DataCamp
+title                : Nhập môn nhận dạng bằng matlab
+description          : Khóa học cung cấp các kiến thức nền tảng và bài tập thực hành cho việc phát triển một ứng dụng phân lớp ảnh bằng matlab.
+university           : UIT - Trường ĐH CNTT
 difficulty_level     : 2
-time_needed          : 1 hour
+time_needed          : 30 hours
 programming_language : python
