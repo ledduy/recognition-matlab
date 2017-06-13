@@ -4,3 +4,5 @@ university           : UIT - Trường ĐH CNTT
 difficulty_level     : 2
 time_needed          : 30 hours
 programming_language : python
+instructors:
+ - duyld@uit.edu.vn
